@@ -124,6 +124,12 @@ Safety alignment is another aspect we particularly emphasize. The crypto investm
 
 
 ## 2. Performance Metrics
+
+<div align="center">
+  <img src="figures/dmind-2-performance.jpeg" width="80%" alt="DMind-2" />
+</div>
+
+
 | Category | Benchmark (Metric) | DeepSeek-R1-0528-Qwen3-8B | gpt-oss-20b | Qwen3-32B | Qwen3-4B(Thinking) | DMind-2-4B(4B) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **General** | | | | | | |
