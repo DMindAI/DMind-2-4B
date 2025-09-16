@@ -46,7 +46,6 @@
 - [Limitations & Disclaimers](#limitations--disclaimers)
 - [Acknowledgments](#acknowledgments)
 - [License](#license)
-- [Citation](#citation)
 - [Contact](#contact)
 
 
@@ -209,18 +208,6 @@ We thank the Qwen and zai teams for providing the excellent base model and the c
 - **Base Models:**
   - DMind-2-4B is derived from Qwen/Qwen3-4B-Thinking-2507, originally licensed under the [Qwen License](https://github.com/QwenLM/Qwen3).
 - Please ensure compliance with the original base model licenses when using or distributing derivatives.
-
-
-## Citation
-
-```bibtex
-@misc{dmind2025,
-  title={DMind-2: Advanced Crypto Domain-Specific Large Language Models with Distribution-Preserving CoT Distillation},
-  author={DMind Team},
-  year={2025},
-  publisher={Hugging Face}
-}
-```
 
 
 ## Contact
